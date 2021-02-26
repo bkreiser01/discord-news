@@ -1,3 +1,1 @@
-#Required npm
-dotenv
-snoowrap
+You will need these npm apps (dotenv, snoowrap)
