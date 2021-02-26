@@ -1,0 +1,3 @@
+#Required npm
+dotenv
+snoowrap
